@@ -1,0 +1,4 @@
+%dw 2.0
+
+type auto_87515b92_a845_42cb_b090_c6986c988853_Input_Payload = {| RequestRecived: Any |}
+
